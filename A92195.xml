@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse of the present power of magistracy and justice occasioned upon the tryall of Lieutenant Collonel John Lilburn. Together with severall perticulers concerning his charge and out of the speeches of the Judge. Also some arguments and conclusions drawn up out of Lieutenant Collonel John Lilburns, pleadings and defence, made to his charge on Thursday the 25 of Octob. 1649. Collected at the request of some friends for generall satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92195</idno>
+            <idno type="STC">Wing R40</idno>
+            <idno type="STC">Thomason E575_37</idno>
+            <idno type="STC">ESTC R206356</idno>
+            <idno type="EEBO-CITATION">99865519</idno>
+            <idno type="PROQUEST">99865519</idno>
+            <idno type="VID">165458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse of the present power of magistracy and justice occasioned upon the tryall of Lieutenant Collonel John Lilburn. Together with severall perticulers concerning his charge and out of the speeches of the Judge. Also some arguments and conclusions drawn up out of Lieutenant Collonel John Lilburns, pleadings and defence, made to his charge on Thursday the 25 of Octob. 1649. Collected at the request of some friends for generall satisfaction.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, and are to be sold near Criplegate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: L.R.</note>
+                  <note>Annotation on Thomason copy: "Octob: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Civil rights --  Sources --  England --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165458:1" rendition="simple:additions"/>
+            <p>A brief DISCOURSE Of the preſent power of Magistracy and Iustice Occaſioned upon the tryall of Lievtenant Collonel <hi>Iohn Lilburn.</hi>
+            </p>
+            <p>TOGETHER With ſeverall perticulers concerning his charge and out of the Speeches of the Judge.</p>
+            <p>ALSO Some Arguments and concluſions drawn up out of Lievtenant Collonel Iohn Lilburns, plead<g ref="char:EOLhyphen"/>ings and defence, made to his charge on Thurſday the 25 of Octob. 1649.</p>
+            <p>COllected at the requeſt of ſome friends for generall ſatisfaction</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>B. Alſop,</hi> and are to be ſold near Criple<g ref="char:EOLhyphen"/>gate, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:165458:2"/>
+            <pb n="1" facs="tcp:165458:2"/>
+            <head>A brief DISCOVRSE OF LAW and IVSTICE, OCCASIONED Upon the Tryall of Lievt. Col. <hi>Iohn Lilburn,</hi> and certain obſervations drawn from the ſpeeches of the Judges, and Mr. <hi>Lilburns</hi> Pleadings.</head>
+            <p>WHen we ſee one go or do amiſſe, though his feet or hands be the cauſe or next actors &amp; inſtru<g ref="char:EOLhyphen"/>ments of this error, yet we ſeldome ſay, <hi>are you lame, but where are your eyes, or can you not ſee?</hi> what eye ſrwarvings or ſtumblings any part of the body
+<pb n="2" facs="tcp:165458:3"/>pollitique makes the blame lights not upon the Commonalty (the immediate Delinquents) but on the principall lights in Magiſtracy or Miniſtracy, which being as Guardians and Tutors of the reſt, ſhould either prevent or reform their aberrations, for they are the Phyſitians of the ſoul, body, and Common-Wealth, which have the Therapeutic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, preſervative Phyſick, to heal and cure the mala<g ref="char:EOLhyphen"/>dies of the mind and body pollitique.</p>
+            <p>And herein miſerable is the condition of theſe two opick pie<g ref="char:EOLhyphen"/>ces that they are more ſubject, and that to more diſtempers then other inferiour parts, yet herein more, hat being hurt they are more impatient of cure not only of ſearching acrimonious waters, but fearfull of the moſt ſoft and lawny touches, but moſt of all in this, that being once extinct, they have a void darkneſſe to the whole body, expoſing it to the pits of deſtruction: As exceeding great on the other hand is rhe honour happineſſe and uſe of th em (<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and ſingle,</p>
+            <p>For this our Nationall body, It will little avail, either to applaud the one, or to bewaile the othet, I rather look about for Eye-ſalve, which may help to deſcry and redreſſe (if any thing be amiſſe:) and behold heer a confection tending thereto. It was preſcribed firſt by <hi>Iethro,</hi> whom <hi>Moſes</hi> calls the Eyes of Iſrael, <hi>Numb,</hi> 10, 31. <hi>Then he ſaid, I pray thee leave us not, for thou knowest our cam<g ref="char:EOLhyphen"/>ping pl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces in the wil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erneſſe, therefore thou mayſt be our guide.</hi> It is beyond all controverſie, that <hi>Iethro</hi> was a godly and religi<g ref="char:EOLhyphen"/>ous man, and ſuch a, himſelf, was his adviſe, ſage and holy, allow<g ref="char:EOLhyphen"/>ed by God and practiſed by <hi>Moſes,</hi> and ſo of good pollicy becom<g ref="char:EOLhyphen"/>meth ſound divinity, his private counſell became a publique Ora<g ref="char:EOLhyphen"/>cle, ruling for the ſubſtance of it, all Ages and perſons.</p>
+            <p>Memorable and lovely it is for the very antiquity thereof, what price do men ſet upon old Records, Coyns, and Statues? which paſſeth by a charitable fountaine, bearing ſome ancient name, or date; yet how are defaced Copies, and disfigured pictures better amended, then by reducing them to their originall; <hi>If the pipe fail, goe we not to the head?</hi> Here is the riſe or firſt draught of Magiſtracy, <hi>Exodus</hi> 18.21. &amp;c. <hi>And place over them to be Ru<g ref="char:EOLhyphen"/>lers; of thouſands, of hundreds, of fifties, and of tens.</hi>
+            </p>
+            <pb n="3" facs="tcp:165458:3" rendition="simple:additions"/>
+            <p>The Office of Magiſtracy (as you have heard) being preſcri<g ref="char:EOLhyphen"/>bed and allowed, they are to judge the people, and the fruit and benefit of this judgement is ſet downe in theſe words, <hi>So ſhall it be eaſier for thy ſelf. and they ſhall bear the burthen with thee, and thou ſhalt the able to endure, and all this people ſhall go to their place in peace.</hi>
+            </p>
+            <p>Having given you ſome grounds and uſe of Magiſtracy, come we in this place to take a view of that Office. The Magiſtrate, e<g ref="char:EOLhyphen"/>ſpecially the Judges, ought "to judge the people at all times, and by their diligence in hearing, to prevent the agrievance of delayes, "that they and the people may go home in peace, ſit under their own Vines and Fig trees (follow their callings) and that which is the moſt precious of all, lead their lives in all Godlineſſe and ho<g ref="char:EOLhyphen"/>neſty, that the Gold, blue and purple Silk, might gliſter and ſhine under that tree, the Supreame power of the Nation,</p>
+            <p>The Magiſtrate is to diſtribute iuſtice according to the Law of God, of Reaſon, of Nature, and that law which is not conſonant to the Law of God, the rule of Reaſon, and of Nature is not to be exerciſed among Chriſtians, but as it is well obſerved by a perſon of eminency (the firſt day of Lieutenant Colonell <hi>Iohn Lilburn's</hi> tryall) the Fundamentall Lawes of England, are agreeable both to the law of God, Reaſon, and Nature, therefore ought not to be contemned by any: to be without a power, is little elſe then to bee without a Government, and Mr. <hi>Lilburn</hi> himſelf hath confeſt, that it is better to live under the worſt of Governments, then where is none at all. And certainly that is the beſt Common-wealth, where the people are in beſt order, for there is the Magiſtrate a living law, and the law a dumbe Magiſtrate, however the Stoicks, the Epi<g ref="char:EOLhyphen"/>cures, and Sectaries do diverſly judge of that matter, and into ſe<g ref="char:EOLhyphen"/>verall opinions have divided the world, yet if any man dehort from vice, and exhort to honeſty, and vertue, let him not be adjudged an Enemy to Liberty and Chriſtian piety.</p>
+            <p>Thoſe people therefore do live in great liberty and freedom, in deed who are perſwaded that to live according to law is perfect freedom, well then might Mr. Lilburn be reprehended to be of a turbulent ſpirit, when whilſt he pleaded ſo much for Law, ſeemed
+<pb n="4" facs="tcp:165458:4"/>to be ignorant by what Law he is tryed, untill one of the Commiſ<g ref="char:EOLhyphen"/>ſioners very learnedly, told him that they ſate by authority of Par<g ref="char:EOLhyphen"/>liament, and that this was not by any new Law or cuſtom, but exciſed in all ages, both before, and ſince, the time of the Sax<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Lilburn names a kind of appeal in all caſes to a tryall of a Jury of twelve ſworn men of the neighbour-hood and commended for a legall (as undoubtedly it is) way of triall, which is now his owne caſe; a grand Inqueſt of above twenty grave Citizens, men of worth and integrity, find the indictment of high Treaſon <hi>Billa vera</hi> and this by the Law, reduced to the purity, as in the time of our Anceſtors, and grounded on pure reaſon, the Law of God.</p>
+            <p>This being granted that the Lawes of England have this foun<g ref="char:EOLhyphen"/>dation great care ought to be taken that they be not altered, for as the diſpoſition of men is apt to innovation: ſo as ſoon as on Law is altred they deſire the alteration of the reſt, the ancient Laws there<g ref="char:EOLhyphen"/>fore ought to be obſerved, and ſometimes (as the Hiſtorian ſaith) wiſely corrected or amended. Amongſt the <hi>Locrenſes</hi> it was or<g ref="char:EOLhyphen"/>dained that if any man ſhould invent a new Law, he ſhould firſt propound the ſame to the people wearing a halter about his neck, to the end that if it were thought pernitious or unprofitable, as an author of evill, he might forthwith ſuffer death. and <hi>Diodorus</hi> wri<g ref="char:EOLhyphen"/>reth of a cerrain Law amongſt the Egyptians whereby every ſub<g ref="char:EOLhyphen"/>ject was compelled to give his name to the Magiſtrates, declaring what kind of life he liked, how he lived, and what Art he exerciſed and if any did tell untruly or not perform his duty ſufficiently he was put to death, but it not my intent to trouble you with any lon<g ref="char:EOLhyphen"/>ger degreſſion, intending only to inſiſt on what is moſt pertinent in the preſent purpoſe, and therein a word or two more of the Law of England, which proceedeth from true reaſon, viz. to live honeſtly, to hurt no man, and to give to every one that which is his own, who ſo therefore doth abandon Laws is at leaſt to be ſuſpected, and to contemn them is no leſſe evill then to deſpiſe Nature, Vertue, Reaſon God himſelf.</p>
+            <pb n="5" facs="tcp:165458:4"/>
+            <p>There was a ſaying amongſt the Epheſians, That free-men ought as manfully to defend the Lawes, as the Walls of the City, for without walls the City might be preſerved, but without lawes it could not, and where vertue and reaſon preſerve not men wi hin the bounds of Law, juſtice ought to be extended to the puniſhment of evill, for the foundation of judgement is the Law, proceeding from wiſe and juſt men, and before the skill of writing Laws was invented, Juſtice had her habitation in the breaſts of ſuch men, and had ſuch preheminece there that it admitted not any thing to be done wickedly, or to diſturb the publique good and peace of others, one principall part of juſtice. tending as well to the ſettling peace in a common-wealth, as bringing the Offender to exemplary and condigne puniſhment.</p>
+            <p>Naturall equity commandeth us to abſtain from iniquity, and therefore we ought to do nothing whereby another may be often<g ref="char:EOLhyphen"/>ded</p>
+            <p>That ancient age of the world the Poets call <hi>Golden,</hi> through the benefit of juſtice, no deceit, fraud, nor injury was known, then were no ſeditions, no tumults, no hate, yet had Maſter Lilburne lived in that time (as in ſundry revolutions ſince) if one may judge a tree by its fruit, without prejudice to the ſtock) he would not have found content, but have buzzed in the peoples ears ſome inconve<g ref="char:EOLhyphen"/>niencies to bring them to a diſlike with what they enjoyed, which is the eaſier done in all times, ſeeing it is <hi>natura homine</hi> to com<g ref="char:EOLhyphen"/>mend the time paſt, hope for the future, and find fault with the preſent.</p>
+            <p>He is only to be accounted a good man which im<g ref="char:EOLhyphen"/>braceth all kind of vertue, and feareth not to dye for his country, but men that are endued with a falſe kind of wiſedom, having their tongues but not their minds inſtructed, do commonly endeavour to alter, and not to amend the publique pollicy, there is not in a Com<g ref="char:EOLhyphen"/>mon-wealth a worſe miſchief then ſuch men, for by ſubtilty, deceipt, &amp; ſedition, they labour to be thought ſomewhat.</p>
+            <pb n="6" facs="tcp:165458:5"/>
+            <p>But as man of all creatures in his perfection is the beſt, ſo if he forſake Law and goodneſſe he is of all other accounted the worſt Mr. Lilburns bold and peremptory language, this day at the Bar of that humble Court before whom he muſt be tryed muſt not bear him out, its the law muſt take place, he is ordered to appear again to morrow, what the event wil be I have not to dowith, time wil manifeſt. A learned Author ſaith that a man may be permitted wice to ſpeak his ſence, though doubtfully, but if the third time he fail, he ſhall not after be admitted to ſpeak more in that cauſe.</p>
+            <p>I conclude with a word or two concerning the reverent Iudges and the reſt of the Commiſſioners of that honourable court they are men that aym at the glory of God, the promoting of Re<g ref="char:EOLhyphen"/>ligion, and ſafety of the Common-wealth, yea why may I not ſay of them with St. Paul? they are ſent of God for the praiſe of the Godly and the puniſhment of evill doers, they ſit in the Iudgment ſeat in as great (though not ſo ſlaviſh) a fear as Olaves when hee lookt upon the flead skin of his father nail'd up by Cambiſes, to conclude where I began, what can we think wanting where Ie<g ref="char:EOLhyphen"/>thro's advice is raken to <hi>fear God, love the truth, and hate cove<g ref="char:EOLhyphen"/>tuouſneſſe.</hi>
+            </p>
+            <byline>By L.R.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
